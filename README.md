@@ -4,8 +4,12 @@
 
 ### Hi, I'm Tuan Anh - Aka [Erik Horus](r) 👋
 
-Xin chào, mình là Tuấn Anh sinh viên năm 3 khoa Công nghệ thông tin 1 ([Học viện Công nghệ Bưu chính Viến Thông](r) - HN).
 
+- 🔭 I’m currently working on PT!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw
   
 
 #### Connect with me:
