@@ -5,11 +5,11 @@
 ### Hi, I'm Tuan Anh - Aka [Erik Horus](r) 👋
 
 
-- 🔭 I’m currently working on PT!
+- 🔭 I’m currently working on PTIT !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw
+
   
 
 #### Connect with me:
