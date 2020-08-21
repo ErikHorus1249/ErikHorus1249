@@ -71,9 +71,8 @@
 
 
 ### Github stats :
-[![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249)](https://github.com/ErikHorus1249/github-readme-stats)
 
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true)
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=gruvbox)
   
 <!-- 
 [website]: https://codeSTACKr.com
