@@ -76,7 +76,7 @@
  
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikHorus1249&layout=compact)](https://github.com/ErikHorus1249/Website_MVC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikHorus1249)](https://github.com/ErikHorus1249/Website_MVC)
 <!-- 
 [website]: https://codeSTACKr.com
 
