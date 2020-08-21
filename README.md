@@ -73,7 +73,11 @@
 ### Github stats :
 
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
-  
+ 
+ <br/>
+ #### No
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <!-- 
 [website]: https://codeSTACKr.com
 
