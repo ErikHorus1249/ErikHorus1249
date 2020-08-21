@@ -1,16 +1,17 @@
 
 
+
   
   
 
-### Hi, I'm Tuan Anh - Aka [Erik Horus](r) 👋
+### Xin chào, Tôi là Tuấn Anh via [Erik Horus](r) 👋
 
 [![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents)
 
-- 🔭 I’m currently working on PTIT !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 Hiện tại tôi đang học tập tại Học viện Công nghệ Bưu chính Viễn thông !
+- 🌱 Đang học tất cả mọi thứ mà tôi thấy thú vị 🤣
+
+- 🥅 Mục tiêu 2020: Cố gắng tạo nên nhiều project chất lượng và quan trọng chúng phải là mã nguồn mở.
 
   
 
@@ -23,8 +24,8 @@
 
   
 
-#### Languages and Tools:
-
+#### Ngôn ngữ và công cụ :
+- Đây là những ngôn ngữ và công cụ sử dụng hàng ngày cho công việc.
   
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -56,26 +57,26 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-  
-
 <br  />
-
-
-#### Github stats :
-
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
- 
+  
 <br />
 
-#### Top languages :
+#### Ngôn ngữ hay sử dụng nhất :
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikHorus1249)](https://github.com/ErikHorus1249/Website_MVC)
 
 <br />
 
-#### Connect with me:
+
+#### Thống kê của Github :
+
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
+ 
+
+
+
+#### Liên hệ:
 
   
 
@@ -108,7 +109,7 @@
 <br/>
 
   <p align="center">
-    <a href="/README.md">English </a>
+    <a href="/docs/readme_fr.md">English </a>
     ·
-    <a href="/README_vie.md">Tiếng Việt</a>
+    <a href="/docs/readme_cn.md">Tiếng Việt</a>
   </p>
