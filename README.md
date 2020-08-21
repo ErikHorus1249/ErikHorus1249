@@ -72,7 +72,7 @@
 
 ### Github stats :
 
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue)
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
   
 <!-- 
 [website]: https://codeSTACKr.com
