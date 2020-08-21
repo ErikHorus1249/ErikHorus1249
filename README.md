@@ -76,7 +76,8 @@
  
  <br/>
  #### No
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikHorus1249&repo=TK_Making_Python_game)](https://github.com/ErikHorus1249/TK_Making_Python_game)
  
 <!-- 
 [website]: https://codeSTACKr.com
