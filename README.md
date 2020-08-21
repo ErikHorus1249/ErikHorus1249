@@ -108,7 +108,7 @@
 <br/>
 
   <p align="center">
-    <a href="/README.md">English </a>
+    <a href="https://github.com/ErikHorus1249/ErikHorus1249/blob/master/README.md">English </a>
     ·
-    <a href="/README_vie.md">Tiếng Việt</a>
+    <a href="https://github.com/ErikHorus1249/ErikHorus1249/blob/master/README_vie.md">Tiếng Việt</a>
   </p>
