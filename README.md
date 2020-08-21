@@ -70,15 +70,15 @@
 <br  />
 
 
-### Github stats :
+#### Github stats :
 
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
  
  <br/>
- #### No
+#### Spotlight repo :
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikHorus1249&repo=TK_Making_Python_game)](https://github.com/ErikHorus1249/TK_Making_Python_game)
- 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikHorus1249&repo=Guide-Documents)](https://github.com/ErikHorus1249/Guide-Documents)
 <!-- 
 [website]: https://codeSTACKr.com
 
