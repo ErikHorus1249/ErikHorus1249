@@ -72,7 +72,7 @@
 
 ### Github stats :
 
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=gruvbox)
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue)
   
 <!-- 
 [website]: https://codeSTACKr.com
