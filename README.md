@@ -61,11 +61,12 @@
 
 <br  />
 
-
+<p align="center">
 #### Github stats :
 
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
- 
+
+<p />
 <br />
 
 #### Top languages :
