@@ -14,17 +14,8 @@
 
   
 
-#### Connect with me:
 
-  
 
-[<img  align="left"  alt="Erik/YouTube"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />](https://www.facebook.com/profile.php?id=100014189107377)
-
-[<img  align="left"  alt="Erik/Twitter"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />](https://twitter.com/hirospectre)
-
-[<img  align="left"  alt="Erik/github"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  />](https://github.com/ErikHorus1249)
-
-[<img  align="left"  alt="codeSTACKr | Instagram"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />](https://www.instagram.com/erik_horus_/?hl=vi)
 
   
 
@@ -81,6 +72,20 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikHorus1249)](https://github.com/ErikHorus1249/Website_MVC)
+
+<br />
+
+#### Connect with me:
+
+  
+
+[<img  align="left"  alt="Erik/YouTube"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />](https://www.facebook.com/profile.php?id=100014189107377)
+
+[<img  align="left"  alt="Erik/Twitter"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />](https://twitter.com/hirospectre)
+
+[<img  align="left"  alt="Erik/github"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  />](https://github.com/ErikHorus1249)
+
+[<img  align="left"  alt="codeSTACKr | Instagram"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />](https://www.instagram.com/erik_horus_/?hl=vi)
 <!-- 
 [website]: https://codeSTACKr.com
 
