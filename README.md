@@ -75,7 +75,7 @@
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikHorus1249&show_icons=true&theme=vue&bg_color=DEG,COLOR1,COLRO2,COLOR3...COLOR10)
  
 <br />
-
+#### Top languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikHorus1249)](https://github.com/ErikHorus1249/Website_MVC)
 <!-- 
 [website]: https://codeSTACKr.com
