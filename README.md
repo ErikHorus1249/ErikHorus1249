@@ -1,8 +1,3 @@
-
-
-  
-  
-
 ### Hi, I'm Tuan Anh - Aka [Erik Horus](r) 👋
 
 [![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents)
@@ -57,9 +52,33 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-  
-
 <br  />
+
+####  Virtualizations :
+<img align="left" alt="Node.js" height="30px" src="https://i.imgur.com/PSK6mQx.png" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/CaBgxR3.png" />
+<img align="left" alt="Node.js" height="40px" src="https://i.imgur.com/z5W6XVG.png" />
+
+<br>
+
+#### Architectures :
+<img align="left" alt="Node.js" height="30px" src="https://i.imgur.com/Hjc96Ig.png" />
+<img align="left" alt="Node.js" height="30px" src="https://i.imgur.com/Hjoh8qv.jpg" />
+<img align="left" alt="Node.js" height="30px" src="https://i.imgur.com/WeeZJ10.png" />
+<img align="left" alt="Node.js" height="30px" src="https://i.imgur.com/pXt1P2J.png" />
+<br>
+
+#### OS :
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/L9H7v0b.png" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/OkIbkSS.png" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/KDk83bq.png" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/9Pqxhdm.jpeg" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/TDgDc9D.png" />
+<img align="left" alt="Node.js" height="26px" src="https://i.imgur.com/9BVRjdO.jpeg" />
+<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/Kdgb1r8.png" />
+<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/rIp7eeS.png" />
+<br>
+
 
 
 #### Github stats :
@@ -112,3 +131,4 @@
     ·
     <a href="https://github.com/ErikHorus1249/ErikHorus1249/blob/master/README_vie.md">Tiếng Việt</a>
   </p>
+
