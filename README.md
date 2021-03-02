@@ -3,10 +3,7 @@
 [![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents)
 
 - 🔭 I’m currently working on PTIT !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 🌱 I’m a Pentester in A.I-soft JSC.
   
 
 
