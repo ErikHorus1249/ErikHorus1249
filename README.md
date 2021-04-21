@@ -1,6 +1,6 @@
 ### Hi, I'm Tuan Anh - Aka [Erik Horus](r) 👋
 
-[![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents)
+<!-- [![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents) -->
 
 - 🔭 I’m currently working on PTIT !
 - 🌱 I’m a Pentester in A.I-soft JSC.
