@@ -2,8 +2,8 @@
 
 <!-- [![HitCount](http://hits.dwyl.com/ErikHorus1249/Guide-Documents.svg)](http://hits.dwyl.com/ErikHorus1249/Guide-Documents) -->
 
-- 🔭 I’m currently working on PTIT !
-- 🌱 I’m a Pentester in A.I-soft JSC.
+- 🔭 I’m currently working on FPT Infomation System!
+
   
 
 
